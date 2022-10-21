@@ -1,0 +1,159 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-color: #ffffff;
+  padding: 10px 0;
+}
+
+.allv {
+  background-color: #ffffff;
+  width: 940px;
+  margin: 0 auto;
+}
+.v1 {
+  width: 460px;
+  background: no-repeat;
+  background-image: url("/img/Vector.png");
+  padding-left: 10px;
+  display: inline-block;
+  text-align: left;
+  padding: 9px;
+}
+.v2 {
+  width: 460px;
+  display: inline-block;
+  text-align: right;
+}
+.v3 {
+  padding-left: 7px;
+}
+.main1 {
+  background-color: #fac960;
+}
+
+.main2 {
+  width: 960px;
+  text-align: center;
+  background-color: #fac960;
+  margin: 0 auto;
+}
+
+.get {
+  padding-top: 102px;
+  padding-bottom: 36px;
+  font-size: 44px;
+  color: #8a6d2f;
+}
+.email {
+  color: #999999;
+  width: 560px;
+  height: 54px;
+  padding-left: 36px;
+  margin-bottom: 100px;
+}
+.submit {
+  background-color: #a8863d;
+  color: #ffffff;
+  width: 240px;
+  height: 54px;
+  font-size: 30px;
+  align: Center;
+  padding-bottom: 9px;
+}
+.gray1 {
+  background-color: #f2f2f2;
+}
+.gray2 {
+  width: 960px;
+  text-align: center;
+  background-color: #f2f2f2;
+  margin: 0 auto;
+}
+.us {
+  color: #0000008f;
+  font-size: 37px;
+  padding-top: 77px;
+}
+.lorem {
+  color: rgba(0, 0, 0, 0.4);
+  font-size: 23px;
+  padding-top: 38px;
+}
+.infinity {
+  padding-top: 35px;
+  padding-bottom: 61px;
+}
+.wphone {
+}
+.wphone1 {
+  width: 960px;
+  text-align: center;
+  background-color: white;
+  margin: 0 auto;
+}
+.mobile {
+  color: #0000008f;
+  font-size: 37px;
+  padding-top: 76px;
+}
+.loremphone {
+  color: #00000066;
+  font-size: 23px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.phone {
+  padding-bottom: 19px;
+}
+.tell {
+  background-color: #fac960;
+}
+.tell1 {
+  width: 960px;
+  text-align: center;
+  background-color: #fac960;
+  margin: 0 auto;
+}
+.friend {
+  font-size: 37px;
+  padding-top: 54px;
+  color: #8a6d2f;
+}
+.want {
+  color: #00000066;
+  font-size: 22px;
+  padding-top: 31px;
+  padding-bottom: 33px;
+}
+.bpoint {
+  width: 61px;
+  height: 22px;
+  margin-bottom: 107px;
+}
+.footer {
+  background-color: #f2f2f2;
+}
+.footer1 {
+  width: 960px;
+  text-align: center;
+  background-color: #f2f2f2;
+  margin: 0 auto;
+}
+.logo {
+  background: no-repeat;
+  background-image: url("/img/Vector.png");
+  background-position: bottom;
+  padding-top: 85px;
+}
+.link {
+  padding-top: 29px;
+  padding-bottom: 81px;
+}
+.face {
+  padding: 0 22px;
+}
