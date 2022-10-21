@@ -34,6 +34,7 @@ header {
 }
 .main1 {
   background-color: #fac960;
+  padding: 102px 0 100px 0;
 }
 
 .main2 {
@@ -44,7 +45,6 @@ header {
 }
 
 .get {
-  padding-top: 102px;
   padding-bottom: 36px;
   font-size: 44px;
   color: #8a6d2f;
@@ -54,7 +54,6 @@ header {
   width: 560px;
   height: 54px;
   padding-left: 36px;
-  margin-bottom: 100px;
 }
 .submit {
   background-color: #a8863d;
@@ -67,6 +66,7 @@ header {
 }
 .gray1 {
   background-color: #f2f2f2;
+  padding: 77px 0 61px 0;
 }
 .gray2 {
   width: 960px;
@@ -77,7 +77,6 @@ header {
 .us {
   color: #0000008f;
   font-size: 37px;
-  padding-top: 77px;
 }
 .lorem {
   color: rgba(0, 0, 0, 0.4);
@@ -86,9 +85,9 @@ header {
 }
 .infinity {
   padding-top: 35px;
-  padding-bottom: 61px;
 }
 .wphone {
+  padding: 76px 0 19px 0;
 }
 .wphone1 {
   width: 960px;
@@ -99,7 +98,6 @@ header {
 .mobile {
   color: #0000008f;
   font-size: 37px;
-  padding-top: 76px;
 }
 .loremphone {
   color: #00000066;
@@ -108,10 +106,10 @@ header {
   padding-bottom: 32px;
 }
 .phone {
-  padding-bottom: 19px;
 }
 .tell {
   background-color: #fac960;
+  padding: 54px 0 107px 0;
 }
 .tell1 {
   width: 960px;
@@ -121,7 +119,6 @@ header {
 }
 .friend {
   font-size: 37px;
-  padding-top: 54px;
   color: #8a6d2f;
 }
 .want {
@@ -133,10 +130,10 @@ header {
 .bpoint {
   width: 61px;
   height: 22px;
-  margin-bottom: 107px;
 }
 .footer {
   background-color: #f2f2f2;
+  padding: 85px 0 81px 0;
 }
 .footer1 {
   width: 960px;
@@ -148,11 +145,9 @@ header {
   background: no-repeat;
   background-image: url("/img/Vector.png");
   background-position: bottom;
-  padding-top: 85px;
 }
 .link {
   padding-top: 29px;
-  padding-bottom: 81px;
 }
 .face {
   padding: 0 22px;
