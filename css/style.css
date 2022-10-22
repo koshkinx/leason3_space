@@ -17,8 +17,6 @@ header {
 }
 .v1 {
   width: 460px;
-  background: no-repeat;
-  background-image: url("/img/Vector.png");
   padding-left: 10px;
   display: inline-block;
   text-align: left;
@@ -142,8 +140,6 @@ header {
   margin: 0 auto;
 }
 .logo {
-  background: no-repeat;
-  background-image: url("/img/Vector.png");
   background-position: bottom;
 }
 .link {
